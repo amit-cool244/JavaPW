@@ -18,6 +18,14 @@ public class FibonacciSeries {
             // Updating the values of firstTerm and secondTerm
             firstTerm = secondTerm;
             secondTerm = nextTerm;
+
+             // Extra code added
+// Extra code added
+// Extra code added
+// Extra code added
+// Extra code added// Extra code added
+// Extra code added
+
         }
     }
 }
